@@ -7,5 +7,4 @@ int main(void) {
 
 	printf("입력받은 값은  %d", num);
 	return 0;
-
 }
