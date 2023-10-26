@@ -6,7 +6,7 @@ int main(void) {
 	int* pnum;
 
 	pnum = &num1;
-	(*pnum) += 30;
+	*pnum += 30;
 
 	pnum = &num2;
 	(*pnum) -= 30;
